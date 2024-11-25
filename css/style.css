@@ -50,8 +50,7 @@ h1, h2 {
 }
 
 #logo {
-    position: absolute;
-    transform: translateX(-100%) translateY(-35%);
+    transform: translateX(-8.5rem);
 }
 
 #title {
@@ -196,14 +195,6 @@ nav a, nav a:visited, nav a:link {
         width: auto;
     }
 }
-
-@media only screen and (max-width: 350px)  {
-    nav {
-        visibility: hidden;
-    }
-}
-
-
 
 @keyframes blur {
     0% {
