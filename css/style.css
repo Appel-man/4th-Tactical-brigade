@@ -51,6 +51,7 @@ h1, h2 {
 
 #logo {
     transform: translateX(-8.5rem);
+    width: 3rem;
 }
 
 #title {
