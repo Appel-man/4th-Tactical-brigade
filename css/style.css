@@ -109,6 +109,9 @@ a {
 }
 
 header {
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
     background-color: var(--medium-dark-color);
     width: 100%;
     padding: 1em 0;
